@@ -1,0 +1,8 @@
+composer.lock
+.php_cs.cache
+.env
+
+/tests/build/
+/vendor/
+/bin/
+node_modules
